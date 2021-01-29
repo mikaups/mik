@@ -33,4 +33,4 @@ $ npm start
 ![Algorithm schema](./shema1.jpg)
 ![Algorithm schema](./shema2.jpg)
 ![Algorithm schema](shema3.jpg)
-![Algorithm schema](../shema4.jpg)
+![Algorithm schema](https://github.com/mikaups/mik/blob/masterorg/shema4.jpg?raw=true)
