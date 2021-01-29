@@ -1,6 +1,6 @@
 # Sign-up app
 
-This project is a kind of summarize of our classes. I've used all technologies we were using at our classes in a simple app. It's a form where you can enter your data, and then they will be saved in the MongoDB and the form will be cleaned and ready for another write.
+This project is a kind of summarize of our classes. I've used all technologies we were using at our course in a simple app. It's a form where you can enter your data, and then they'll be saved in the MongoDB and the form will be cleaned and ready for another record.
 
 ## Used technologies
 * React version 17.0.1 - frontend
@@ -14,7 +14,7 @@ This project is a kind of summarize of our classes. I've used all technologies w
 * Dotens version 8.2.0 - it's helps to hide files with private information like login and password to db
 * Cors version 2.8.5 - Cross-Origin Resource Sharing
 * VSC's extension REST Client version 0.24.3 - it's allow to easy check POST function
-* Bsrypt version 5.0.0 - thanks to this passwords are encrypted
+* Bcrypt version 5.0.0 - thanks to this passwords are encrypted
 
  ## Opening project
  Runs the app in the development mode: [http://localhost:3000](http://localhost:3000) to view it in the browser.
