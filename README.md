@@ -30,7 +30,9 @@ $ cd signupf
 $ npm start
 ```
 ## App preview
-![Algorithm schema](./shema1.jpg)
-![Algorithm schema](./shema2.jpg)
-![Algorithm schema](shema3.jpg)
-![Algorithm schema](https://github.com/mikaups/mik/blob/masterorg/shema4.jpg?raw=true)
+![Algorithm schema](https://ibb.co/tPHd1gk)
+![Algorithm schema](https://ibb.co/P1QhMrW)
+![Algorithm schema](https://ibb.co/vY1ZPV2)
+![Algorithm schema](https://ibb.co/L5w9Kp3)
+
+
