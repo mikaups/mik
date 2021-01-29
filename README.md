@@ -30,7 +30,7 @@ $ cd signupf
 $ npm start
 ```
 ## App preview
-![Algorithm schema](./images/schema1.jpg)
-![Algorithm schema](./images/schema2.jpg)
-![Algorithm schema](./images/schema3.jpg)
-![Algorithm schema](./images/schema4.jpg)
+![Algorithm schema](./shema1.jpg)
+![Algorithm schema](./shema2.jpg)
+![Algorithm schema](./shema3.jpg)
+![Algorithm schema](./shema4.jpg)
