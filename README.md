@@ -32,5 +32,5 @@ $ npm start
 ## App preview
 ![Algorithm schema](./shema1.jpg)
 ![Algorithm schema](./shema2.jpg)
-![Algorithm schema](./shema3.jpg)
-![Algorithm schema](./shema4.jpg)
+![Algorithm schema](shema3.jpg)
+![Algorithm schema](../shema4.jpg)
